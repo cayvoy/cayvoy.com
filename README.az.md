@@ -1,3 +1,5 @@
+<p align="center"><a href="https://cayvoy.com/"><picture><source srcset="assets/logo.svg" type="image/svg+xml"><img src="assets/logo.png" width="80" alt="Cayvoy logo"></picture></a></p>
+
 [English](README.md) · [Azərbaycanca](README.az.md) · [Türkçe](README.tr.md) · [Русский](README.ru.md) · [Español](README.es.md)
 
 [![Cayvoy — Windows creator tools and Android app](assets/cayvoy-banner.png)](https://cayvoy.com/)
